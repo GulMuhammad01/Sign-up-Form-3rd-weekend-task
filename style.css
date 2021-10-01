@@ -1,0 +1,44 @@
+body {
+  background: black;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  background: antiquewhite;
+  border-radius: 0px;
+  width: 334px;
+  margin-left: 550px;
+  height: 500px;
+}
+.main-section {
+  padding: 0px 0;
+  margin: 88px -55px;
+}
+.main-header{
+    padding-top: 30px;
+}
+.header {
+  font-size: 14px;
+  text-align: center;
+  margin: 15px 10px;
+  padding-top: 20px;
+}
+.sec-body input {
+  margin: 10px 40px;
+  padding: 0px 30px;
+}
+.sec-body label {
+  display: inline-block;
+}
+.sec-condition {
+  padding: 8px 0px;
+  margin: 0px 30px;
+}
+.button {
+  text-align: center;
+  font-size: 5px;
+  padding: 5px 86px;
+  margin: 26px 50px;
+  color: white;
+  background-color: blue;
+}
